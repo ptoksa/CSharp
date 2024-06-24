@@ -1,0 +1,14 @@
+/home/petri/Ohjelmointi/C#/ContactManagement/bin/Debug/net8.0/ContactManagement
+/home/petri/Ohjelmointi/C#/ContactManagement/bin/Debug/net8.0/ContactManagement.deps.json
+/home/petri/Ohjelmointi/C#/ContactManagement/bin/Debug/net8.0/ContactManagement.runtimeconfig.json
+/home/petri/Ohjelmointi/C#/ContactManagement/bin/Debug/net8.0/ContactManagement.dll
+/home/petri/Ohjelmointi/C#/ContactManagement/bin/Debug/net8.0/ContactManagement.pdb
+/home/petri/Ohjelmointi/C#/ContactManagement/obj/Debug/net8.0/ContactManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/petri/Ohjelmointi/C#/ContactManagement/obj/Debug/net8.0/ContactManagement.AssemblyInfoInputs.cache
+/home/petri/Ohjelmointi/C#/ContactManagement/obj/Debug/net8.0/ContactManagement.AssemblyInfo.cs
+/home/petri/Ohjelmointi/C#/ContactManagement/obj/Debug/net8.0/ContactManagement.csproj.CoreCompileInputs.cache
+/home/petri/Ohjelmointi/C#/ContactManagement/obj/Debug/net8.0/ContactManagement.dll
+/home/petri/Ohjelmointi/C#/ContactManagement/obj/Debug/net8.0/refint/ContactManagement.dll
+/home/petri/Ohjelmointi/C#/ContactManagement/obj/Debug/net8.0/ContactManagement.pdb
+/home/petri/Ohjelmointi/C#/ContactManagement/obj/Debug/net8.0/ContactManagement.genruntimeconfig.cache
+/home/petri/Ohjelmointi/C#/ContactManagement/obj/Debug/net8.0/ref/ContactManagement.dll
